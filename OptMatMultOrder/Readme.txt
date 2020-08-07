@@ -1,2 +1,2 @@
-The program accepts orders of matrices in the format of pi's: M1 is p1Xp2, M2 is p2Xp3, ... , Mn is pnXpn+1 - 
-calculates and prints string that represents the optimum order of multiplication between these n matrices.
+Given matrices orders in the format: M1's order is p1Xp2, M2's order is p2Xp3, ... , Mn's order is pnX(pn+1) -->
+The program calculates and prints a string which represents the optimum order for multiplication between the given n matrices.
